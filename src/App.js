@@ -21,7 +21,6 @@ function App() {
       <h1>Gabszito Passagens</h1>
       <p>Conheça os mundos pelo melhor preço!</p>
 
-      <button>Contato</button>
       <button onClick={() => adicionaCredito()}>Adicionar Crédito</button>
 
       <p>Seu crédito é de R$ {credito}</p>
