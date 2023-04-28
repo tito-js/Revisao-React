@@ -30,8 +30,12 @@ function App() {
         <button onClick={() => compraPassagem(1200)}>Comprar</button>
       </p>
       <p>
-        Londres - R$1800{" "}
-        <button onClick={() => compraPassagem(1800)}>Comprar</button>
+        Londres - R$1500{" "}
+        <button onClick={() => compraPassagem(1500)}>Comprar</button>
+      </p>
+			<p>
+        Espanha - R$1700{" "}
+        <button onClick={() => compraPassagem(1700)}>Comprar</button>
       </p>
     </div>
   );
